@@ -52,5 +52,7 @@ while True :
         peek()
     elif ch==4:
         display()
+    else :
+        print("Invalid choice")
         
         
